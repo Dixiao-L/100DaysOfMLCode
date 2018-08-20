@@ -85,3 +85,7 @@
 ------
 * 发现Youtube新course ML for Hackers
 * 快两周了 着手完成 ML in 3 Months 的Month1部分
+
+2018-08-19-Day14
+-------
+* 复习微积分
